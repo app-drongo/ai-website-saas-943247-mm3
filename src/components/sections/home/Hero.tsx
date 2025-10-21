@@ -23,7 +23,7 @@ const DEFAULT_HERO = {
   primaryCTAHref: '/contact',
   secondaryCTAHref: 'https://static-site-server.rachid-regti.workers.dev/sites/68f7976ae576fa77192902cf/about',
   imageUrl:
-    'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1920&auto=format&fit=crop',
+    'https://images.unsplash.com/photo-1624927637280-f033784c1279?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNhYXMlMjB3YXJlaG91c2UlMjBhcHBsaWNhdGlvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=900',
   imageAlt: 'Warehouse management dashboard',
   statsLabel1: 'Efficiency Boost',
   statsValue1: '85% Faster',

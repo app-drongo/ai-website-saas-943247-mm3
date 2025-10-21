@@ -21,7 +21,7 @@ const DEFAULT_HERO = {
   primaryCTA: 'Start Free Trial',
   secondaryCTA: 'Watch Demo',
   primaryCTAHref: '/contact',
-  secondaryCTAHref: '#demo',
+  secondaryCTAHref: 'https://static-site-server.rachid-regti.workers.dev/sites/68f7976ae576fa77192902cf/about',
   imageUrl:
     'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1920&auto=format&fit=crop',
   imageAlt: 'Warehouse management dashboard',
